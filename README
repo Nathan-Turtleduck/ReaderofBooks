@@ -1,0 +1,31 @@
+# Project 04: Reader of Books
+
+* Author: Nathan Maroko
+* Class: CS121 Section 2
+* Semester: Fall 2019
+
+## Overview
+
+This java application displays a GUI which allows the user to enter a csv file
+full of book objects. Buttons are made out of these objects and allow the viewer to choose
+which book they would like to read.
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac ReaderOfBooks.java
+```
+
+Run the compiled class with the command:
+```
+$ java ReaderOfBooks
+```
+
+You will be prompted to input a csv file containing books.
+From there it is entirely up to the user what they would like to do with
+the program.
+
+## Sources used
+
+I didn't use any outside sources for this project.
